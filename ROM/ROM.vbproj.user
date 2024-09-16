@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminUILogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BGOverlay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerUI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerUIOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerUIOrderPopUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerUIOrderSuccess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeUI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeUILogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeUIPopUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ErrorConnectionUI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuSelectionPopUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminUI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
